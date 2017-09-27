@@ -48,8 +48,8 @@
 
         <!-- 开源三方库-->
         <dependency>
-            <groupId>org.bytesoft</groupId>
-            <artifactId>bytetcc-supports-springcloud</artifactId>
+            <groupId>org.mengyun</groupId>
+            <artifactId>tcc-transaction-spring</artifactId>
         </dependency>
         <dependency>
             <groupId>io.springfox</groupId>
